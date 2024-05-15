@@ -1,0 +1,75 @@
+[
+    {
+      "id": 0,
+      "name": "Flight Tracker",
+      "description": "Uses API calls to track flights daily and alerts via text if specified flight is found within budget.",
+      "technologies": [
+        "Python",
+        "API"
+      ],
+      "photo": "images/flighttracker.jpg",
+      "date": "February 2024"
+    },
+    {
+      "id": 1,
+      "name": "Stardew Valley Mod",
+      "description": "Game mod that notifies player if it is an NPC's birthday.",
+      "technologies": [
+        "C#",
+        ".NET 6",
+        "SMAPI"
+      ],
+      "photo": "images/birthdaytoday.jpg",
+      "date": "March 2024"
+    },
+    {
+      "id": 2,
+      "name": "Project 365",
+      "description": "Flask website application for mapping an uploaded photo with each day of the year.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "SQL"
+      ],
+      "photo": "images/project365.png",
+      "date": "December 2024"
+    },
+    {
+      "id": 3,
+      "name": "Personal Portfolio Website",
+      "description": "A website to share a bit about me and to showcase my projects and skills.",
+      "technologies": [
+        "Javascript",
+        "React",
+        "Node.js",
+        "CSS"
+      ],
+      "photo": "images/personalwebsite.png",
+      "date": "May 2024"
+    },
+    {
+      "id": 4,
+      "name": "Espresso Clicker Game",
+      "description": "A desktop game where one can build their espreso empire through clicking and buying assets.",
+      "technologies": [
+        "Java",
+        "Maven",
+        "Jackson",
+        "Swing"
+      ],
+      "photo": "images/espresso.png",
+      "date": "April 2024"
+    },
+    {
+      "id": 5,
+      "name": "Photo Booth",
+      "description": "A desktop application that takes photos, collages, and prints a physical copy upon a button press.",
+      "technologies": [
+        "Python",
+        "Raspberry Pi",
+        "Linux"
+      ],
+      "photo": "images/photobooth.png",
+      "date": "November 2023"
+    }
+  ]

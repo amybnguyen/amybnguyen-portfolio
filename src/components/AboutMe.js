@@ -15,7 +15,7 @@ const AboutMe = () => {
                 <Col>
                   <div>
                     <h1 className="display-6 font-weight-normal" style={{color:'#0d6efd'}}>Want to learn more?</h1>
-                    <p className="lead font-weight-normal">Prior to my work in software development, I majored in Biochemistry and Molecular Biology. I spent time building a few biotech start-ups, speciailizing in software support in automated liquid handlers and laboratory information management systems for the laboratory processes.</p>
+                    <p className="lead font-weight-normal">Prior to my work in software development, I majored in Biochemistry and Molecular Biology. I spent time building a few biotech start-ups, specializing in software support in automated liquid handlers and laboratory information management systems for the laboratory processes.</p>
                     <p className="lead font-weight-normal">To develop my software engineering skills, I have been working on personal software projects in my spare time. For more information, view my projects and resume.</p>
                     <div className="text-center">
                     <a className="btn btn-outline-secondary m-2" href="/projects">Projects</a>

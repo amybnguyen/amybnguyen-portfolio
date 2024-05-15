@@ -17,9 +17,9 @@ const ProjectCard = () => {
                   <p className="card-text">{project['name']}</p>
                   <p className="card-text">{project['description']}</p>
                   <div className="d-flex justify-content-between align-items-center">
-                    <div >
+                    <div className="project-card-tags">
                       {project['technologies'].map((item) => (
-                        <button type="button" className="btn btn-sm btn-outline-secondary m-1">{item}</button>
+                        <span className="project-card-tag">{item}</span>
                       ))}
                     </div>
                     <small className="text-muted">{project['date']}</small>
